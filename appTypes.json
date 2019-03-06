@@ -1,0 +1,24 @@
+{
+  "rekit-react": {
+    "name": "Rekit React",
+    "repo": "supnate/rekit-boilerplate-react#master",
+    "description": "Feature oriented SPA application with React, Redux and React Router.",
+    "parameters": [{
+      "id": "css",
+      "label": "CSS Transpiler",
+      "type": "string",
+      "widget": "radio",
+      "options": [["less", "Less"], ["scss", "Sass"]]
+    }]
+  },
+  "rekit-plugin": {
+    "name": "Rekit Plugin",
+    "repo": "rekit/boilerplate-rekit-plugin#master",
+    "description": "A Rekit plugin project."
+  },
+  "react": {
+    "name": "React",
+    "repo": "supnate/rekit-boilerplate-plugin#dist",
+    "description": "Create React App project."
+  }
+}
