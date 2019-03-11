@@ -4,7 +4,7 @@
     "name": "Rekit React",
     "repo": "supnate/rekit-boilerplate-react#master",
     "description": "Feature oriented SPA application with React, Redux and React Router.",
-    "parameters": [
+    "args": [
       {
         "id": "css",
         "label": "CSS Transpiler",
@@ -25,7 +25,7 @@
     "id": "altus-plugin",
     "name": "Altus Plugin",
     "repo": "supnate/rekit-boilerplate-plugin#dist",
-    "description": "Create React App project."
+    "description": "Altus Plugin project."
   },
   {
     "id": "react",
