@@ -17,6 +17,11 @@
     "repo": "rekit/boilerplate-rekit-plugin#master",
     "description": "A Rekit plugin project."
   },
+  "altus-plugin": {
+    "name": "Altus Plugin",
+    "repo": "supnate/rekit-boilerplate-plugin#dist",
+    "description": "Create React App project."
+  },
   "react": {
     "name": "React",
     "repo": "supnate/rekit-boilerplate-plugin#dist",
