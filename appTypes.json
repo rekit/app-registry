@@ -1,30 +1,36 @@
-{
-  "rekit-react": {
+[
+  {
+    "id": "rekit-react",
     "name": "Rekit React",
     "repo": "supnate/rekit-boilerplate-react#master",
     "description": "Feature oriented SPA application with React, Redux and React Router.",
-    "parameters": [{
-      "id": "css",
-      "label": "CSS Transpiler",
-      "type": "string",
-      "widget": "radio",
-      "initialValue": "less",
-      "options": [["less", "Less"], ["scss", "Sass"]]
-    }]
+    "parameters": [
+      {
+        "id": "css",
+        "label": "CSS Transpiler",
+        "type": "string",
+        "widget": "radio",
+        "initialValue": "less",
+        "options": [["less", "Less"], ["scss", "Sass"]]
+      }
+    ]
   },
-  "rekit-plugin": {
+  {
+    "id": "rekit-plugin",
     "name": "Rekit Plugin",
     "repo": "rekit/boilerplate-rekit-plugin#master",
     "description": "A Rekit plugin project."
   },
-  "altus-plugin": {
+  {
+    "id": "altus-plugin",
     "name": "Altus Plugin",
     "repo": "supnate/rekit-boilerplate-plugin#dist",
     "description": "Create React App project."
   },
-  "react": {
+  {
+    "id": "react",
     "name": "React",
     "repo": "supnate/rekit-boilerplate-plugin#dist",
     "description": "Create React App project."
   }
-}
+]
