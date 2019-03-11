@@ -8,6 +8,7 @@
       "label": "CSS Transpiler",
       "type": "string",
       "widget": "radio",
+      "initialValue": "less",
       "options": [["less", "Less"], ["scss", "Sass"]]
     }]
   },
