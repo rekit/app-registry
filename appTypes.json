@@ -9,7 +9,7 @@
         "id": "css",
         "label": "CSS Transpiler",
         "type": "string",
-        "widget": "radio",
+        "widget": "radio-group",
         "initialValue": "less",
         "options": [["less", "Less"], ["scss", "Sass"]]
       }
