@@ -16,6 +16,24 @@
     ]
   },
   {
+    "id": "react",
+    "name": "React",
+    "repo": "supnate/rekit-boilerplate-plugin#dist",
+    "description": "Create React App project."
+  },
+  {
+    "id": "vue",
+    "name": "Vue",
+    "repo": "supnate/rekit-boilerplate-plugin#dist",
+    "description": "Vue js project, coming soon."
+  },
+  {
+    "id": "angular",
+    "name": "Angular",
+    "repo": "supnate/rekit-boilerplate-plugin#dist",
+    "description": "Angular js project, coming soon."
+  },
+  {
     "id": "rekit-plugin",
     "name": "Rekit Plugin",
     "repo": "rekit/boilerplate-rekit-plugin#master",
@@ -26,11 +44,6 @@
     "name": "Altus Plugin",
     "repo": "supnate/rekit-boilerplate-plugin#dist",
     "description": "Altus Plugin project."
-  },
-  {
-    "id": "react",
-    "name": "React",
-    "repo": "supnate/rekit-boilerplate-plugin#dist",
-    "description": "Create React App project."
   }
+  
 ]
