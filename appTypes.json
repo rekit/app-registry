@@ -18,18 +18,21 @@
   {
     "id": "react",
     "name": "React",
+    "disabled": true,
     "repo": "rekit/boilerplate-rekit-react#master",
     "description": "Create React App project."
   },
   {
     "id": "vue",
     "name": "Vue",
+    "disabled": true,
     "repo": "rekit/boilerplate-rekit-react#master",
     "description": "Vue js project, coming soon."
   },
   {
     "id": "angular",
     "name": "Angular",
+    "disabled": true,
     "repo": "rekit/boilerplate-rekit-react#master",
     "description": "Angular js project, coming soon."
   },
@@ -42,6 +45,7 @@
   {
     "id": "altus-plugin",
     "name": "Altus Plugin",
+    "disabled": true,
     "repo": "rekit/boilerplate-rekit-react#master",
     "description": "Altus Plugin project."
   }
