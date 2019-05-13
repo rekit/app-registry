@@ -19,22 +19,6 @@
         "tooltip": "Whether to include examples code in the project.",
         "widget": "checkbox",
         "initialValue": true
-      },
-      {
-        "id": "reduxEffects",
-        "label": "Redux Effects",
-        "tooltip": "Which middleware for async actions.",
-        "widget": "radio-group",
-        "initialValue": "redux-thunk",
-        "options": [["redux-thunk", "Redux Thunk"], ["redux-saga", "Redux Saga"]]
-      },
-      {
-        "id": "uiLibrary",
-        "label": "UI Library",
-        "tooltip": "Which UI library to use",
-        "widget": "radio-group",
-        "initialValue": "none",
-         "options": [["none", "None"], ["ant-design", "Ant Design"], ["material-ui", "Material UI"]]
       }
     ]
   },
