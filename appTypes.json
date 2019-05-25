@@ -27,7 +27,7 @@
     "name": "React",
     "plugin": "react",
     "disabled": false,
-    "repo": "rekit/boilerplate-rekit-react#master",
+    "repo": "rekit/boilerplate-react#master",
     "description": "React app by create-react-app."
   },
   {
