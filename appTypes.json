@@ -28,7 +28,7 @@
     "plugin": "react",
     "disabled": false,
     "repo": "rekit/boilerplate-react#master",
-    "description": "React app created by official create-react-app."
+    "description": "React app created by create-react-app."
   },
   {
     "id": "vue",
